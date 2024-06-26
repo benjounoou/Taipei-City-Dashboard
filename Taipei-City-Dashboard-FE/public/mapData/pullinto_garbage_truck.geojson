@@ -1,0 +1,173 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"北投區",
+    "1700前":33,
+    "1700-1900":186,
+    "1900-2100":173,
+    "2100後":151
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"士林區",
+    "1700前":123,
+    "1700-1900":212,
+    "1900-2100":177,
+    "2100後":153
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"內湖區",
+    "1700前":8,
+    "1700-1900":70,
+    "1900-2100":58,
+    "2100後":61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"南港區",
+    "1700前":1,
+    "1700-1900":76,
+    "1900-2100":81,
+    "2100後":55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"松山區",
+    "1700前":4,
+    "1700-1900":43,
+    "1900-2100":30,
+    "2100後":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"信義區",
+    "1700前":0,
+    "1700-1900":55,
+    "1900-2100":60,
+    "2100後":53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"中山區",
+    "1700前":40,
+    "1700-1900":102,
+    "1900-2100":104,
+    "2100後":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"大同區",
+    "1700前":59,
+    "1700-1900":37,
+    "1900-2100":98,
+    "2100後":60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"中正區",
+    "1700前":2,
+    "1700-1900":146,
+    "1900-2100":104,
+    "2100後":102
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"萬華區",
+    "1700前":57,
+    "1700-1900":75,
+    "1900-2100":83,
+    "2100後":91
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"大安區",
+    "1700前":0,
+    "1700-1900":102,
+    "1900-2100":95,
+    "2100後":115
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":"文山區",
+    "1700前":46,
+    "1700-1900":194,
+    "1900-2100":185,
+    "2100後":158
+    }
+  }
+]
+}
